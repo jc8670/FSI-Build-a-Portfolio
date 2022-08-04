@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(39, 39, 39);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: lightsteelblue;
+}
+
+h1.header {
+    text-align: center;
+}
+span {
+    font-style: italic;
+}
+
+a{
+    color:lightblue;
+}
